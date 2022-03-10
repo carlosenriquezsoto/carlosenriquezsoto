@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @carlosenriquezsoto!
-- 👀 I’m interested in programming, cybersecurity and data science,
-- 🌱 I’m currently learning Java at University of North Georgia,
+- 👀 I’m passionate about programming, coding, economics & personal finance.
+- 🌱 I’m currently lpursuing a BS of Computer Science at the University of Georgia,
+
+Contact me here:
 - enriquezsotcarlos@gmail.com
 - www.linkedin.com/in/enriquezsotocarlos
 
