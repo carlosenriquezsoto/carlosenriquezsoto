@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlosenriquezsoto!
-- 👀 I’m passionate about programming, coding, economics & personal finance.
-- 🌱 I’m currently lpursuing a BS of Computer Science at the University of Georgia,
+- 👀 I’m passionate about programming, coding & personal finance.
+- 🌱 I’m currently pursuing a BS of Computer Science at the University of Georgia,
 
 Contact me here:
 - enriquezsotcarlos@gmail.com
