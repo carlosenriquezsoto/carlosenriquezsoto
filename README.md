@@ -3,7 +3,6 @@
 - 🌱 I’m currently pursuing a BS of Computer Science at the University of Georgia,
 
 Contact me here:
-- enriquezsotcarlos@gmail.com
 - www.linkedin.com/in/enriquezsotocarlos
 
 
